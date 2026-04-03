@@ -33,8 +33,7 @@ python demo/app.py
 
 ## 项目结构
 ```bash
-agents/: Multi
--Agent 系统实现（Analyst, Sampler, Solver, Arbiter）
+agents/: Multi-Agent 系统实现（Analyst, Sampler, Solver, Arbiter）
 core/: MO-CCMCKP 问题定义与 OPERA-MC 算法
 tools/: Agent 可调用的外部工具（Gurobi, Local Search）
 evaluation/: 与 NSGA-II/MOEA/D 的对比实验
