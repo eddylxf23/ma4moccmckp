@@ -23,7 +23,7 @@ python demo/app.py
   journal={IEEE Transactions on Cybernetics},
   year={2024}
 }
-'''
+```
 
 ## 项目结构
 agents/: Multi-Agent 系统实现（Analyst, Sampler, Solver, Arbiter）
