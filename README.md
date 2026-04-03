@@ -15,7 +15,10 @@ conda activate ma4moccmckp
 
 # 3. 运行示例
 python demo/app.py
+```
 
+## 引用
+```bash
 如果你使用了本项目的代码，请引用：
 @article{li2024chance,
   title={Chance-Constrained Multiple-Choice Knapsack Problem: Model, Algorithms, and Applications},
@@ -26,8 +29,11 @@ python demo/app.py
 ```
 
 ## 项目结构
-agents/: Multi-Agent 系统实现（Analyst, Sampler, Solver, Arbiter）
+```bash
+agents/: Multi
+-Agent 系统实现（Analyst, Sampler, Solver, Arbiter）
 core/: MO-CCMCKP 问题定义与 OPERA-MC 算法
 tools/: Agent 可调用的外部工具（Gurobi, Local Search）
 evaluation/: 与 NSGA-II/MOEA/D 的对比实验
 demo/: Streamlit 可视化界面
+```
