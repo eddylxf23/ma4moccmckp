@@ -20,11 +20,14 @@ python demo/app.py
 ## 引用
 ```bash
 如果你使用了本项目的代码，请引用：
-@article{li2024chance,
-  title={Chance-Constrained Multiple-Choice Knapsack Problem: Model, Algorithms, and Applications},
-  author={Li, Xuanfeng and Liu, Shengcai and Wang, Jin and Chen, Xiao and Ong, Yew-Soon and Tang, Ke},
-  journal={IEEE Transactions on Cybernetics},
-  year={2024}
+@misc{li2026moccmckp,
+      title={Multi-Objective Evolutionary Optimization of Chance-Constrained Multiple-Choice Knapsack Problems with Implicit Probability Distributions}, 
+      author={Xuanfeng Li and Shengcai Liu and Wenjie Chen and Yew-Soon Ong and Ke Tang},
+      year={2026},
+      eprint={2603.08209},
+      archivePrefix={arXiv},
+      primaryClass={cs.NE},
+      url={https://arxiv.org/abs/2603.08209}, 
 }
 ```
 
