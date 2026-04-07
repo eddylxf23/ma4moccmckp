@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test outputs
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Results and outputs
+results/
+output/
+*.png
+*.pdf
+*.svg
+
+# WorkBuddy internal
+.workbuddy/
+
+# Temporary files
+*.tmp
+*.bak
+0.4
+test.py

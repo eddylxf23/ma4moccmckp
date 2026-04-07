@@ -1,0 +1,14 @@
+# MO-CCMCKP Multi-Agent Framework — 依赖列表
+
+numpy>=1.24.0
+pydantic>=2.0.0
+matplotlib>=3.7.0
+
+# 可选：Autogen 对话式 Agent（完整版）
+# pyautogen>=0.2.0
+
+# 可选：pymoo 多目标优化算法基线
+# pymoo>=0.6.0
+
+# 可选：plotly 交互式可视化
+# plotly>=5.0.0
